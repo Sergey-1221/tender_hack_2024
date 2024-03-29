@@ -21,7 +21,7 @@ export default function Menu() {
                     <NavigationMenuItem>
                         <Link href="/search" legacyBehavior passHref>
                             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-                                Поиск
+                                Тендеры
                             </NavigationMenuLink>
                         </Link>
                     </NavigationMenuItem>
